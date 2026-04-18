@@ -6,7 +6,7 @@ export function Footer() {
           {/* Brand */}
           <div className="md:col-span-2">
             <a href="/" className="inline-block mb-6">
-              <img src="/images/hously-logo.svg" alt="Пространство" width={120} height={32} className="w-auto h-6" />
+              <span className="text-foreground text-xl font-semibold tracking-widest uppercase">Hitec</span>
             </a>
             <p className="text-muted-foreground leading-relaxed max-w-sm">
               Ремонт и отделка премиум класса в Иркутске. Более 10 лет опыта, 200+ реализованных объектов, гарантия 5 лет.
@@ -70,7 +70,7 @@ export function Footer() {
 
         {/* Bottom bar */}
         <div className="pt-8 border-t border-border flex flex-col md:flex-row md:items-center justify-between gap-4 text-sm text-muted-foreground">
-          <p>© 2025 Премиум Ремонт Иркутск. Все права защищены.</p>
+          <p>© 2025 Hitec. Все права защищены.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-foreground transition-colors">
               Политика конфиденциальности
