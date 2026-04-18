@@ -78,6 +78,17 @@ export function Philosophy() {
               В нашей компании давно сформировалась команда профессиональных мастеров, специалистов и проверенных фирм. Мы способны наполнить теплом и жизнью даже самые холодные стены.
             </p>
 
+            <div className="flex gap-12 mb-12">
+              <div>
+                <p className="text-5xl font-medium tracking-tight">19+</p>
+                <p className="text-muted-foreground text-sm mt-1">лет на рынке</p>
+              </div>
+              <div>
+                <p className="text-5xl font-medium tracking-tight">200+</p>
+                <p className="text-muted-foreground text-sm mt-1">реализованных объектов</p>
+              </div>
+            </div>
+
             {philosophyItems.map((item, index) => (
               <div
                 key={item.title}
