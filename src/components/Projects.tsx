@@ -24,7 +24,7 @@ const projects = [
     category: "Частный дом",
     location: "Иркутск, Листвянка",
     year: "2023",
-    image: "https://cdn.poehali.dev/projects/e62400a6-2bc4-48c1-be44-b5a89f479668/files/5658153a-a728-40f3-8f13-73c5a7f28ac9.jpg",
+    image: "https://cdn.poehali.dev/projects/e62400a6-2bc4-48c1-be44-b5a89f479668/files/23965a6d-e4d3-43fd-bf27-eb0db6e73949.jpg",
   },
   {
     id: 4,
